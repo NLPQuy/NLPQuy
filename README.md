@@ -61,7 +61,7 @@
 
 ## 🏆 Achievements
 
-- 🥇 **Top 3 Nationwide**, 🥇 **1st in Southern Region** – Responsible AI Hackathon (by Google Developer Group Vietnam)  
+- 🥇 **Top 3 Nationwide**, 🥇 **1st in Southern Region** – Responsible AI Hackathon (by Google Developer Group on Campus Vietnam)  
   📌 Built a smart food recommendation system using **Graph Neural Networks** and **Multi-Agent Systems**
 
 - 🎓 **Completed Stanford's CS229 – Machine Learning**  
