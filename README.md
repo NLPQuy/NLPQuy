@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">
-  👋 Xin chào! Tôi là <span style="color:#00bfff;">Nguyen Lam Phu Quy</span> 💻
+  👋 Hello! I'm <span style="color:#00bfff;">Nguyen Lam Phu Quy</span> 💻
 </h1>
 
 <p align="center">
@@ -28,71 +28,79 @@
 </p>
 
 <h3 align="center">
-✨ "Sáng tạo, không ngừng học hỏi, và cống hiến cho tương lai của AI" ✨
+✨ "Create, Learn, and Contribute to the Future of AI" ✨
 </h3>
 
 ---
 
-## 🧠 Về tôi
+## 🧠 About Me
 
-🎓 Sinh viên năm 2 ngành **Trí tuệ nhân tạo**, Đại học Khoa học Tự nhiên - ĐHQG TP.HCM  
-🎯 Đam mê nghiên cứu về **Large Language Models**, **AI có thể giải thích (XAI)** và học máy ứng dụng  
-📈 GPA hiện tại: **3.87/4.0**  
-🧩 Giải thuật, toán học và tư duy logic là thế mạnh của tôi
+🎓 I’m currently a sophomore majoring in **Artificial Intelligence** at the **University of Science – VNUHCM**, with a GPA of **3.87/4.0**.
 
----
+💡 I'm passionate about:
+- Large Language Models (LLMs)
+- Reasoning & Explainable AI (XAI)
+- Algorithmic problem-solving and AI system deployment
 
-## 🚀 Kỹ năng nổi bật
-
-| **ML & AI**       | PyTorch, Scikit-learn, Numpy, Pandas |
-|-------------------|---------------------------------------|
-| **Ngôn ngữ lập trình** | Python, C++, SQL, MATLAB, R         |
-| **Web & App Dev** | Flask, FastAPI, Streamlit, Gradio     |
-| **Cloud/DevOps**  | Docker, Git, GitHub                   |
-| **Khác**          | Microsoft SQL Server, LaTeX, Office   |
+🧠 I love building, researching, and experimenting with both theoretical and applied AI topics.
 
 ---
 
-## 🏆 Thành tựu nổi bật
+## 🚀 Skills & Technologies
 
-- 🥇 **Top 3 Toàn quốc** – Responsible AI Hackathon (GDG Vietnam)  
-  📌 Xây dựng hệ thống gợi ý món ăn bằng **Graph Neural Networks + Multi-Agent Systems**
-
-- 🎓 **Hoàn thành khóa CS229 - Stanford**  
-  👉 Nắm vững học có giám sát, không giám sát, tối ưu hóa
-
-- 🧠 **200+ bài LeetCode** – Giải quyết thuật toán, củng cố tư duy giải bài
-
-- 🎖️ **Học bổng học kỳ 1 (2023–2024)** – Khoa CNTT, ĐH KHTN TP.HCM
+| **Machine Learning** | PyTorch, Scikit-learn, Numpy, Pandas |
+|----------------------|---------------------------------------|
+| **Languages**        | Python, C++, SQL, MATLAB, R          |
+| **Web/Apps**         | Flask, FastAPI, Streamlit, Gradio    |
+| **Cloud & DevOps**   | Docker, Git, GitHub                  |
+| **Databases**        | Microsoft SQL Server                 |
+| **Tools**            | LaTeX, MS Office                     |
+| **Languages**        | English (IELTS 6.5)                  |
 
 ---
 
-## 💡 Dự án tiêu biểu
+## 🏆 Achievements
 
-| 🚀 Project | 🔍 Mô tả |
-|-----------|---------|
-| 🎮 **Caro Game (C++)** | Bot đánh cờ bằng hill climbing |
-| 🧠 **Maze Solver** | Áp dụng BFS/DFS/Dijkstra/A* vào game giải mê cung |
-| 💻 **Remote Desktop qua Gmail (C#)** | Điều khiển máy tính từ xa qua socket & xác thực Gmail |
-| 🧬 **PCA on ABIDE II** | Phân cụm không giám sát dữ liệu tự kỷ, đạt ~70% độ chính xác |
-| 🔗 **Dependency Parser** | Triển khai parser theo paper Manning & Danqi Chen |
+- 🥇 **Top 3 Nationwide**, 🥇 **1st in Southern Region** – Responsible AI Hackathon (by Google Developer Group Vietnam)  
+  📌 Built a smart food recommendation system using **Graph Neural Networks** and **Multi-Agent Systems**
+
+- 🎓 **Completed Stanford's CS229 – Machine Learning**  
+  Solid understanding of supervised/unsupervised learning and optimization
+
+- 🧠 **200+ LeetCode problems solved** (@nguyenlamphuquykh)  
+  Focused on algorithmic thinking and performance
+
+- 🎖️ **Merit Scholarship Winner**  
+  Awarded for excellent academic performance (Semester 1, 2023–2024)
+
+---
+
+## 💡 Highlight Projects
+
+| 🚀 Project | 🔍 Description |
+|-----------|----------------|
+| 🎮 **Caro Game in C++** | Created from scratch with hill-climbing AI |
+| 🧠 **Maze Solver: Tom & Jerry** | Implemented BFS, DFS, Dijkstra, and A* algorithms |
+| 💻 **Remote Desktop via Gmail (C#)** | Socket-based remote control app via Gmail authentication |
+| 🧬 **ABIDE II - PCA & Clustering** | 70% accuracy in unsupervised autism spectrum clustering |
+| 🔗 **Dependency Parser** | Neural parser implementation based on Danqi Chen & Christopher Manning's paper |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NLPQuy&show_icons=true&theme=gradient" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NLPQuy&theme=gradient" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NLPQuy&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NLPQuy&theme=radical" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NLPQuy&layout=compact&theme=gradient" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NLPQuy&layout=compact&theme=radical" width="48%"/>
 </p>
 
 ---
 
-## 📫 Kết nối với tôi
+## 📫 Let's Connect!
 
 <p align="center">
   <a href="mailto:nguyenlamphuquykh@gmail.com">📧 Email</a> • 
@@ -102,4 +110,4 @@
 
 ---
 
-<p align="center"><i>“Học để tạo ra, tạo ra để chia sẻ, chia sẻ để thay đổi.”</i></p>
+<p align="center"><i>“Learn to create. Create to share. Share to inspire.”</i></p>
