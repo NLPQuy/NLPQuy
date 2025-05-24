@@ -1,88 +1,105 @@
-<h1 align="center">👋 Hi, I'm Nguyen Lam Phu Quy</h1>
+<!-- PROFILE HEADER -->
+<h1 align="center">
+  👋 Xin chào! Tôi là <span style="color:#00bfff;">Nguyen Lam Phu Quy</span> 💻
+</h1>
 
 <p align="center">
-  <em>AI student | ML & LLMs enthusiast | Aspiring Researcher</em><br>
-  <a href="mailto:nguyenlamphuquykh@gmail.com">📧 Email</a> |
-  <a href="https://github.com/NLPQuy">🐙 GitHub</a> |
-  <a href="https://linkedin.com/in/NLPQuy">🔗 LinkedIn</a> |
-  <a href="https://leetcode.com/u/nguyenlamphuquykh/">🧠 LeetCode</a>
+  <em>📚 AI Enthusiast • 🧠 LLM Researcher • 🛠 Builder</em>  
+  <br><br>
+  <a href="mailto:nguyenlamphuquykh@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/NLPQuy">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/NLPQuy">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/nguyenlamphuquykh/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+<!-- HERO SECTION -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
 
-🎓 I’m currently a sophomore pursuing a **Bachelor of Artificial Intelligence** at **University of Science – VNUHCM**, with a GPA of **3.87/4.0**.
-
-💡 My main interests lie in:
-- Large Language Models (LLMs)
-- Reasoning and Explainable AI (XAI)
-- Research and development in advanced AI systems
-
-🛠 I love building, experimenting, and solving complex problems — especially those involving algorithms, NLP, and machine learning models.
+<h3 align="center">
+✨ "Sáng tạo, không ngừng học hỏi, và cống hiến cho tương lai của AI" ✨
+</h3>
 
 ---
 
-## 🧠 Skills & Technologies
+## 🧠 Về tôi
 
-**Languages:** Python, C/C++, SQL, MATLAB, R  
-**Machine Learning:** PyTorch, Scikit-learn, Numpy, Pandas  
-**Deployment:** Docker, Git, Gradio, Streamlit, Flask, FastAPI  
-**Database:** Microsoft SQL Server  
-**Tools:** Microsoft Office, LaTeX  
-**Languages:** English (IELTS 6.5)
+🎓 Sinh viên năm 2 ngành **Trí tuệ nhân tạo**, Đại học Khoa học Tự nhiên - ĐHQG TP.HCM  
+🎯 Đam mê nghiên cứu về **Large Language Models**, **AI có thể giải thích (XAI)** và học máy ứng dụng  
+📈 GPA hiện tại: **3.87/4.0**  
+🧩 Giải thuật, toán học và tư duy logic là thế mạnh của tôi
 
 ---
 
-## 🏆 Achievements
+## 🚀 Kỹ năng nổi bật
 
-- 🥇 **Top 3 Nationwide** + **1st Place in Southern Region**  
-  *Responsible AI Hackathon* – Google Developer Group on Campus Vietnam  
-  > Built a food recommendation system using **Graph Neural Networks** and **Multi-Agent Systems**
-
-- 📚 **Completed Stanford CS229 – Machine Learning**  
-  Covered supervised/unsupervised learning & optimization
-
-- 💻 **Solved 200+ problems on LeetCode**  
-  @nguyenlamphuquykh — Passionate about algorithms and data structures
-
-- 🥈 **Merit Scholarship Recipient**  
-  Awarded for academic excellence – Semester 1, 2023–2024
+| **ML & AI**       | PyTorch, Scikit-learn, Numpy, Pandas |
+|-------------------|---------------------------------------|
+| **Ngôn ngữ lập trình** | Python, C++, SQL, MATLAB, R         |
+| **Web & App Dev** | Flask, FastAPI, Streamlit, Gradio     |
+| **Cloud/DevOps**  | Docker, Git, GitHub                   |
+| **Khác**          | Microsoft SQL Server, LaTeX, Office   |
 
 ---
 
-## 🧪 Selected Projects
+## 🏆 Thành tựu nổi bật
 
-- 🎮 **Caro Game in C++**  
-  Built from scratch with a bot opponent using the **hill-climbing algorithm**
+- 🥇 **Top 3 Toàn quốc** – Responsible AI Hackathon (GDG Vietnam)  
+  📌 Xây dựng hệ thống gợi ý món ăn bằng **Graph Neural Networks + Multi-Agent Systems**
 
-- 🧭 **Tom & Jerry Maze Solver**  
-  Game inspired by the cartoon, using **DFS, BFS, Dijkstra, A*** for pathfinding
+- 🎓 **Hoàn thành khóa CS229 - Stanford**  
+  👉 Nắm vững học có giám sát, không giám sát, tối ưu hóa
 
-- 💻 **Remote Desktop via Gmail (C#)**  
-  Built a socket-based app that enables remote control via **Gmail authentication**
+- 🧠 **200+ bài LeetCode** – Giải quyết thuật toán, củng cố tư duy giải bài
 
-- 🤝 **Quora Question Pairs – Kaggle**  
-  Built semantic similarity models using **word embeddings** (CS224n)
-
-- 🌐 **Dependency Parser**  
-  Implemented neural-based parser following the paper by Danqi Chen & Christopher Manning
-
-- 🧬 **PCA & Clustering on ABIDE II**  
-  Analyzed autism-related patterns in noisy data using unsupervised ML, achieving up to **70% accuracy**
+- 🎖️ **Học bổng học kỳ 1 (2023–2024)** – Khoa CNTT, ĐH KHTN TP.HCM
 
 ---
 
-## 📫 Let's Connect!
+## 💡 Dự án tiêu biểu
 
-- ✉️ Email: [nguyenlamphuquykh@gmail.com](mailto:nguyenlamphuquykh@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/NLPQuy](https://linkedin.com/in/NLPQuy)  
-- 💻 GitHub: [github.com/NLPQuy](https://github.com/NLPQuy)
+| 🚀 Project | 🔍 Mô tả |
+|-----------|---------|
+| 🎮 **Caro Game (C++)** | Bot đánh cờ bằng hill climbing |
+| 🧠 **Maze Solver** | Áp dụng BFS/DFS/Dijkstra/A* vào game giải mê cung |
+| 💻 **Remote Desktop qua Gmail (C#)** | Điều khiển máy tính từ xa qua socket & xác thực Gmail |
+| 🧬 **PCA on ABIDE II** | Phân cụm không giám sát dữ liệu tự kỷ, đạt ~70% độ chính xác |
+| 🔗 **Dependency Parser** | Triển khai parser theo paper Manning & Danqi Chen |
 
 ---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NLPQuy&show_icons=true&theme=radical" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NLPQuy&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NLPQuy&show_icons=true&theme=gradient" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NLPQuy&theme=gradient" width="48%"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NLPQuy&layout=compact&theme=gradient" width="48%"/>
+</p>
+
+---
+
+## 📫 Kết nối với tôi
+
+<p align="center">
+  <a href="mailto:nguyenlamphuquykh@gmail.com">📧 Email</a> • 
+  <a href="https://linkedin.com/in/NLPQuy">🔗 LinkedIn</a> • 
+  <a href="https://github.com/NLPQuy">🐙 GitHub</a>
+</p>
+
+---
+
+<p align="center"><i>“Học để tạo ra, tạo ra để chia sẻ, chia sẻ để thay đổi.”</i></p>
