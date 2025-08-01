@@ -48,7 +48,7 @@
 
 ## 🚀 Skills & Technologies
 
-| **Machine Learning** | PyTorch, Scikit-learn, Numpy, Pandas |
+| **Machine Learning** | PyTorch, Huggingface, Scikit-learn, Numpy, Pandas |
 |----------------------|---------------------------------------|
 | **Languages**        | Python, C++, SQL, MATLAB, R          |
 | **Web/Apps**         | Flask, FastAPI, Streamlit, Gradio    |
